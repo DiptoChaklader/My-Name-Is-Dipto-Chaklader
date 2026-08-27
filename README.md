@@ -56,6 +56,16 @@
 <!-- ====== 🚀 PROJECT TO-DO LIST ====== -->
 ## 📋 Project To-Do List
 
+<!-- 
+============================================================
+🔧 HOW TO ADD YOUR PROJECTS:
+1. Copy one row (from <tr> to </tr>)
+2. Paste it below
+3. Fill in your project details
+4. Change status badge if needed
+============================================================
+-->
+
 <table align="center">
   <thead>
     <tr>
@@ -67,48 +77,51 @@
     </tr>
   </thead>
   <tbody>
+
+    <!-- ====== ADD YOUR PROJECTS BELOW ====== -->
+
+    <!-- Template Row (Copy this and paste below to add new project) -->
+    <!--
     <tr>
       <td align="center">1</td>
-      <td><b>Portfolio Website</b></td>
-      <td><code>dipto-chaklader.github.io</code></td>
+      <td><b>Your Project Name</b></td>
+      <td><code>github.com/dipto-chaklader/your-project</code></td>
       <td><img src="https://img.shields.io/badge/🚧-In_Progress-yellow"/></td>
       <td align="center"><a href="#">🔗 View</a></td>
     </tr>
+    -->
+
+    <!-- 👇 PASTE YOUR PROJECTS HERE 👇 -->
+
+    <!-- Example Project 1 (Delete this and add yours) -->
+    <tr>
+      <td align="center">1</td>
+      <td><b>Your First Project</b></td>
+      <td><code>github.com/dipto-chaklader/your-repo-name</code></td>
+      <td><img src="https://img.shields.io/badge/🚧-In_Progress-yellow"/></td>
+      <td align="center"><a href="#">🔗 View</a></td>
+    </tr>
+
+    <!-- Example Project 2 (Delete this and add yours) -->
     <tr>
       <td align="center">2</td>
-      <td><b>Student Management System</b></td>
-      <td><code>github.com/dipto-chaklader/student-mgmt</code></td>
+      <td><b>Your Second Project</b></td>
+      <td><code>github.com/dipto-chaklader/your-repo-name</code></td>
       <td><img src="https://img.shields.io/badge/📝-Planned-blue"/></td>
       <td align="center">Coming Soon</td>
     </tr>
+
+    <!-- Example Project 3 (Delete this and add yours) -->
     <tr>
       <td align="center">3</td>
-      <td><b>Snake Game</b></td>
-      <td><code>github.com/dipto-chaklader/snake-game</code></td>
-      <td><img src="https://img.shields.io/badge/🚧-In_Progress-yellow"/></td>
-      <td align="center"><a href="#">🔗 View</a></td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
-      <td><b>To-Do App</b></td>
-      <td><code>github.com/dipto-chaklader/todo-app</code></td>
+      <td><b>Your Third Project</b></td>
+      <td><code>github.com/dipto-chaklader/your-repo-name</code></td>
       <td><img src="https://img.shields.io/badge/✅-Completed-brightgreen"/></td>
       <td align="center"><a href="#">🔗 View</a></td>
     </tr>
-    <tr>
-      <td align="center">5</td>
-      <td><b>Weather App</b></td>
-      <td><code>github.com/dipto-chaklader/weather-app</code></td>
-      <td><img src="https://img.shields.io/badge/📝-Planned-blue"/></td>
-      <td align="center">Coming Soon</td>
-    </tr>
-    <tr>
-      <td align="center">6</td>
-      <td><b>Calculator</b></td>
-      <td><code>github.com/dipto-chaklader/calculator</code></td>
-      <td><img src="https://img.shields.io/badge/✅-Completed-brightgreen"/></td>
-      <td align="center"><a href="#">🔗 View</a></td>
-    </tr>
+
+    <!-- ====== ADD MORE PROJECTS ABOVE THIS LINE ====== -->
+
   </tbody>
 </table>
 
@@ -125,16 +138,65 @@
 <!-- ====== PROJECT UI LOCATION DETAILS ====== -->
 ## 🌐 Project UI Locations
 
-| Project | UI Location | Type |
-|---------|-------------|------|
-| **Portfolio Website** | `dipto-chaklader.github.io` | 🌍 Live Website |
-| **Snake Game** | `github.com/dipto-chaklader/snake-game` | 📁 GitHub Repo |
-| **Student Management** | `github.com/dipto-chaklader/student-mgmt` | 📁 GitHub Repo |
-| **To-Do App** | `github.com/dipto-chaklader/todo-app` | 📁 GitHub Repo |
-| **Weather App** | `github.com/dipto-chaklader/weather-app` | 📁 GitHub Repo |
-| **Calculator** | `github.com/dipto-chaklader/calculator` | 📁 GitHub Repo |
+<!-- 
+============================================================
+🔧 HOW TO ADD YOUR PROJECT LOCATIONS:
+1. Copy one row (from <tr> to </tr>)
+2. Paste it below
+3. Fill in your project name and location
+============================================================
+-->
 
-> 💡 **Tip:** Replace these with your actual project links once created!
+<table>
+  <thead>
+    <tr>
+      <th width="40%">📁 Project Name</th>
+      <th width="40%">🌐 UI Location</th>
+      <th width="20%">📂 Type</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <!-- ====== ADD YOUR PROJECTS BELOW ====== -->
+
+    <!-- Template Row (Copy this and paste below to add new project) -->
+    <!--
+    <tr>
+      <td><b>Your Project Name</b></td>
+      <td><code>github.com/dipto-chaklader/your-project</code></td>
+      <td>📁 GitHub Repo</td>
+    </tr>
+    -->
+
+    <!-- 👇 PASTE YOUR PROJECTS HERE 👇 -->
+
+    <!-- Example Project 1 (Delete this and add yours) -->
+    <tr>
+      <td><b>Your First Project</b></td>
+      <td><code>github.com/dipto-chaklader/your-repo-name</code></td>
+      <td>📁 GitHub Repo</td>
+    </tr>
+
+    <!-- Example Project 2 (Delete this and add yours) -->
+    <tr>
+      <td><b>Your Second Project</b></td>
+      <td><code>dipto-chaklader.github.io/your-project</code></td>
+      <td>🌍 Live Website</td>
+    </tr>
+
+    <!-- Example Project 3 (Delete this and add yours) -->
+    <tr>
+      <td><b>Your Third Project</b></td>
+      <td><code>github.com/dipto-chaklader/your-repo-name</code></td>
+      <td>📁 GitHub Repo</td>
+    </tr>
+
+    <!-- ====== ADD MORE PROJECTS ABOVE THIS LINE ====== -->
+
+  </tbody>
+</table>
+
+> 💡 **Tip:** Replace `your-repo-name` with your actual repository name
 
 ---
 
