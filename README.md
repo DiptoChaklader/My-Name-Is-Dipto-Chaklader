@@ -80,39 +80,7 @@
 ---
 
 <!-- ====== GITHUB STATS ====== -->
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipto-chaklader&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-chaklader&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto-chaklader&layout=compact&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=dipto-chaklader&theme=radical&no-frame=true&row=2&column=3" width="48%"/>
-</p>
-
----
-
-<!-- ====== ACTIVITY GRAPH ====== -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipto-chaklader&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
----
-
-<!-- ====== SNAKE ANIMATION ====== -->
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipto-chaklader/dipto-chaklader/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipto-chaklader/dipto-chaklader/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dipto-chaklader/dipto-chaklader/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 <!-- ====== GAMING SECTION ====== -->
 ## 🎮 Gaming Zone
