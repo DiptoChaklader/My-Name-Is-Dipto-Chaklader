@@ -54,7 +54,7 @@
 
 | # | 📁 Project Name | 🌐 UI Location | Status | 🔗 Live Demo |
 |---|----------------|----------------|--------|--------------|
-| 1 | ** My-online-Pharmacy** | `https://github.com/DiptoChaklader/My-online-Pharmacy` | 🚧 In Progress | 🔗 View |
+| 1 | **[ My online Pharmacy ]** | `https://github.com/DiptoChaklader/My-online-Pharmacy` | ✅ Completed | 🔗 View |
 | 2 | **[Your Project Name]** | `github.com/dipto-chaklader/your-repo` | 📝 Planned | Coming Soon |
 | 3 | **[Your Project Name]** | `github.com/dipto-chaklader/your-repo` | ✅ Completed | 🔗 View |
 | 4 | **[Your Project Name]** | `github.com/dipto-chaklader/your-repo` | 🚧 In Progress | 🔗 View |
